@@ -4,7 +4,8 @@
 https://twitter.com/raashidbhatt
 
 Kill live running qakbot on an infected machine . 
-More on this  : [int-xccblog](https://int0xcc.svbtle.com/operation-duckhunt-testing-the-fbi-s-anti-qakbot-missile-test)
+More on this  : [Operation Duckhunt : Field Testing the FBI’s Anti-Qakbot Payload
+](https://int0xcc.svbtle.com/operation-duckhunt-testing-the-fbi-s-anti-qakbot-missile-test)
 
 - Downlaod KillQbot.exe
 - If the pipe is found of the system , it iwll send a CMD0x04 via that pipe to invoke the kill command on qakbot
